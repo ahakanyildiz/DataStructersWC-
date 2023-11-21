@@ -1,0 +1,16 @@
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\bin\Debug\net5.0\TekYonluBagliListe.exe
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\bin\Debug\net5.0\TekYonluBagliListe.deps.json
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\bin\Debug\net5.0\TekYonluBagliListe.runtimeconfig.json
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\bin\Debug\net5.0\TekYonluBagliListe.runtimeconfig.dev.json
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\bin\Debug\net5.0\TekYonluBagliListe.dll
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\bin\Debug\net5.0\TekYonluBagliListe.pdb
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\obj\Debug\net5.0\TekYonluBagliListe.csproj.AssemblyReference.cache
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\obj\Debug\net5.0\TekYonluBagliListe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\obj\Debug\net5.0\TekYonluBagliListe.AssemblyInfoInputs.cache
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\obj\Debug\net5.0\TekYonluBagliListe.AssemblyInfo.cs
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\obj\Debug\net5.0\TekYonluBagliListe.csproj.CoreCompileInputs.cache
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\obj\Debug\net5.0\TekYonluBagliListe.dll
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\obj\Debug\net5.0\refint\TekYonluBagliListe.dll
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\obj\Debug\net5.0\TekYonluBagliListe.pdb
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\obj\Debug\net5.0\TekYonluBagliListe.genruntimeconfig.cache
+C:\Users\BULLET\source\repos\TekYonluBagliListe\TekYonluBagliListe\obj\Debug\net5.0\ref\TekYonluBagliListe.dll

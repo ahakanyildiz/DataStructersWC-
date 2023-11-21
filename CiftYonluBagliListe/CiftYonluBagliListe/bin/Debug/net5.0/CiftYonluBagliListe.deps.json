@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CiftYonluBagliListe/1.0.0": {
+        "runtime": {
+          "CiftYonluBagliListe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CiftYonluBagliListe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

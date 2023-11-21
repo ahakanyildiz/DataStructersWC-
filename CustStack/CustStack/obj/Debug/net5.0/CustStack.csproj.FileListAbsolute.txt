@@ -1,0 +1,16 @@
+C:\Users\BULLET\source\repos\CustStack\CustStack\bin\Debug\net5.0\CustStack.exe
+C:\Users\BULLET\source\repos\CustStack\CustStack\bin\Debug\net5.0\CustStack.deps.json
+C:\Users\BULLET\source\repos\CustStack\CustStack\bin\Debug\net5.0\CustStack.runtimeconfig.json
+C:\Users\BULLET\source\repos\CustStack\CustStack\bin\Debug\net5.0\CustStack.runtimeconfig.dev.json
+C:\Users\BULLET\source\repos\CustStack\CustStack\bin\Debug\net5.0\CustStack.dll
+C:\Users\BULLET\source\repos\CustStack\CustStack\bin\Debug\net5.0\CustStack.pdb
+C:\Users\BULLET\source\repos\CustStack\CustStack\obj\Debug\net5.0\CustStack.csproj.AssemblyReference.cache
+C:\Users\BULLET\source\repos\CustStack\CustStack\obj\Debug\net5.0\CustStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BULLET\source\repos\CustStack\CustStack\obj\Debug\net5.0\CustStack.AssemblyInfoInputs.cache
+C:\Users\BULLET\source\repos\CustStack\CustStack\obj\Debug\net5.0\CustStack.AssemblyInfo.cs
+C:\Users\BULLET\source\repos\CustStack\CustStack\obj\Debug\net5.0\CustStack.csproj.CoreCompileInputs.cache
+C:\Users\BULLET\source\repos\CustStack\CustStack\obj\Debug\net5.0\CustStack.dll
+C:\Users\BULLET\source\repos\CustStack\CustStack\obj\Debug\net5.0\refint\CustStack.dll
+C:\Users\BULLET\source\repos\CustStack\CustStack\obj\Debug\net5.0\CustStack.pdb
+C:\Users\BULLET\source\repos\CustStack\CustStack\obj\Debug\net5.0\CustStack.genruntimeconfig.cache
+C:\Users\BULLET\source\repos\CustStack\CustStack\obj\Debug\net5.0\ref\CustStack.dll

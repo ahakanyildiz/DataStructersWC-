@@ -1,0 +1,16 @@
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\bin\Debug\net5.0\CiftYonluBagliListe.exe
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\bin\Debug\net5.0\CiftYonluBagliListe.deps.json
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\bin\Debug\net5.0\CiftYonluBagliListe.runtimeconfig.json
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\bin\Debug\net5.0\CiftYonluBagliListe.runtimeconfig.dev.json
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\bin\Debug\net5.0\CiftYonluBagliListe.dll
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\bin\Debug\net5.0\CiftYonluBagliListe.pdb
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\net5.0\CiftYonluBagliListe.csproj.AssemblyReference.cache
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\net5.0\CiftYonluBagliListe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\net5.0\CiftYonluBagliListe.AssemblyInfoInputs.cache
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\net5.0\CiftYonluBagliListe.AssemblyInfo.cs
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\net5.0\CiftYonluBagliListe.csproj.CoreCompileInputs.cache
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\net5.0\CiftYonluBagliListe.dll
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\net5.0\refint\CiftYonluBagliListe.dll
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\net5.0\CiftYonluBagliListe.pdb
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\net5.0\CiftYonluBagliListe.genruntimeconfig.cache
+C:\Users\BULLET\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\net5.0\ref\CiftYonluBagliListe.dll
